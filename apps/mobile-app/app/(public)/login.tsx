@@ -1,10 +1,12 @@
 import { Auth } from "@/components/Auth";
-import { View, Text } from "react-native";
+import { VStack } from "@/components/ui/vstack";
+import { Heading } from "@/components/ui/heading";
 
 export default function login() {
   return (
-    <View className="flex-1 justify-center items-center">
+    <VStack className="flex-1 justify-center items-center" space="md">
+      <Heading>Welcome back to whatTodo</Heading>
       <Auth />
-    </View>
+    </VStack>
   );
 }
