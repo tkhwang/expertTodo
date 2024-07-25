@@ -9,7 +9,7 @@ Todo from experts with supervisors
 - [react native expo](https://expo.dev/) : v51
 - UI
   - tailwind css
-  - [gluestack-ui v2](https://www.gluestack.io/)
+  - [rnr : React Native Reusables](https://rnr-docs.vercel.app/getting-started/introduction/)
 
 ### Backend
 
